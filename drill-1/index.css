@@ -1,0 +1,35 @@
+.first {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(72, 68, 68);
+    margin: 0;
+}
+
+.second {
+    height: 100vw;
+    width: 200px;
+    position: relative;
+    float: left;
+    background-color: rgb(236, 234, 234);
+    z-index: 10;
+}
+
+.third {
+    height: 100vw;
+    width: 200px;
+    position: relative;
+    float: right;
+    background-color: rgb(236, 234, 234);;
+    z-index: 10;
+}
+
+.fourth {
+    width: 100%;
+    height: 125px;
+    background-color: rgb(26, 25, 25);
+    position: relative;
+    top: 1330px;
+    z-index: 1;
+}
+
+
